@@ -1,2 +1,5 @@
-let message: string = 'hello, Typescript!';
-console.log({message});
+export{};
+
+let isFinished: boolean = true;
+isFinished = false;
+console.log({isFinished});
